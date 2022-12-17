@@ -1,6 +1,6 @@
 {
-  "name": "vscode-js-console-utils-extended",
-  "displayName": "javascript console utils extended",
+  "name": "vscode-js-console-utils-with-dots",
+  "displayName": "javascript console utils with dots",
   "description": "Help insert and remove console.(*) statements",
   "version": "0.7.1",
   "publisher": "cris7ea",
